@@ -1,6 +1,6 @@
 # Galeria-de-Fotos
 
-![](./imagem/Preview.png)
+![](./img/Preview.png)
 
 ## Descrição
 Projeto de HTML e CSS, sobre uma galeria de fotos
